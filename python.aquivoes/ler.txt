@@ -1,0 +1,2 @@
+open()  inicia um aquivo ou uma pasta usa
+close() fecha os aquivowrite(escrev)

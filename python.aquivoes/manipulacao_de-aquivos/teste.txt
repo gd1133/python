@@ -1,0 +1,4 @@
+vamos usa open pra inicia e pra finalizar close.
+vamos usa barra n pra quebra de linha
+pra escreve um texto usa
+write. writelines
